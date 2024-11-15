@@ -14,7 +14,7 @@ faculty entries.
   
 ### Backend:
 - PHP
-- 
+
 ### Database:
 - MySQL
 
