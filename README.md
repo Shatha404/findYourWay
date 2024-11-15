@@ -3,6 +3,7 @@ A website to help students locate
 Faculty offices follow the Agile model for iterative development. 
 Implemented admin features for managing, adding, editing, and removing 
 faculty entries.
+
 ![image](https://github.com/user-attachments/assets/2ee029cb-7db6-46db-b9c8-0c2cedf79b39)
 
 
